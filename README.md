@@ -25,10 +25,11 @@ This is a repository where I store all lessons that I take on the programming pa
 
 ## Installation
 
+1. Clone this repository.
 1. Install [GHCup](https://www.haskell.org/ghcup/).
 2. In PowerShell execute `ghcup install ghc`, `ghcup install cabal`, and `ghcup install hls`.
 3. Install [Visual Studio Code](https://code.visualstudio.com/), and it's [Haskell](https://marketplace.visualstudio.com/items?itemName=haskell.haskell) and [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) extensions.
-4. That's all, to execute a Haskell file, you have to open it in Visual Studio Code and press the play button at the top right of the window.
+4. That's all! To execute a Haskell file, you have to open it in Visual Studio Code and press the play button at the top right of the window.
 
 > [!TIP]
 > If you want to execute Haskell code without installing it in your machine, try it's [official playground](https://play.haskell.org/).
